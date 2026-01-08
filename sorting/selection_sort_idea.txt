@@ -1,0 +1,17 @@
+repeatedly selects the smallest or largest from unsorted portion 
+move to the sorted portion of the array
+time complexity O(N^2)
+
+to sort - (n-1)-number if elements have to be re-arranged
+execution must be of n-1 times in outer loop 
+
+in each pass, find maximum index using inner loop 
+compare minimum to maximum indexed element
+after inner loop, ith element will swap
+
+ALGORITHM : 
+min_idx = 0 th index
+search minimum 
+swap with min_idx
+increment min_idx to next element point 
+repeat till sorted 

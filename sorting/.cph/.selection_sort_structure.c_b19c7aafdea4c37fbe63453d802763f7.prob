@@ -1,0 +1,1 @@
+{"name":"Local: selection_sort_structure","url":"c:\\CSE242-Data Structure Lab-4th semester\\sorting\\selection_sort_structure.c","tests":[{"id":1764184274191,"input":"5\n2 46 90 86 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CSE242-Data Structure Lab-4th semester\\sorting\\selection_sort_structure.c","group":"local","local":true}

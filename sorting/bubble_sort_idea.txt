@@ -1,0 +1,15 @@
+swap elements if they are in wrong order 
+time complexity O(N^2)
+not suitable for large data 
+
+sort an array 
+one loop will pass n-1 times 
+other will compare 2 elements
+each pass array will sort one element 
+
+ALGORITHM :
+check if first one is greater than second one
+if yes, swap 
+if no, move pointer forward 
+repeat until end
+of array

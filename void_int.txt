@@ -1,0 +1,37 @@
+void 
+no return value 
+
+int 
+returns a value 
+
+basic for loop 
+if initial is less, condition - increament 
+if initial is big, have to go small value, condition - decreament 
+
+loops syntax 
+
+for loop 
+
+for(initialization; condition; increament/decreament)
+{
+
+}
+
+while loop 
+
+initialization;
+while(condition)
+{
+    //code body ;
+    increament/decreament;
+}
+
+do-while loop
+
+initialization
+do
+{
+    //code to execute 
+    increament/decreament
+}
+while(condition)

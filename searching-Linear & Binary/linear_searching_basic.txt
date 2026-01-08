@@ -1,0 +1,9 @@
+for(int i=0; i<n; i++)
+{
+    //n is the number of elements
+    if(key == arr[i])
+    {
+        printf("found at %dth index", i);
+        break;
+    }
+}
